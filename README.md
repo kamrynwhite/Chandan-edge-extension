@@ -3,12 +3,12 @@
 
 <a href="https://xengshi.github.io/materialYouNewTab/"><img src="https://i.ibb.co/x11pGSs/icon-128.png" width="50"></a>
 <br>
-Material You NewTab
+Chandan-Edge-Extension
 
 </h1>
 <div align="center">
 
-Material You NewTab is a versatile browser extension that personalizes your New Tab page with customizable themes, a welcoming message, and various handy tools, all while integrating seamlessly with your preferred search engine.
+Chandan-Edge-Extension is a versatile browser extension that personalizes your New Tab page with customizable themes, a welcoming message, and various handy tools, all while integrating seamlessly with your preferred search engine.
 
 </div>
 
