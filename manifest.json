@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "Material You NewTab",
+	"name": "Chandan Edge Extension",
 	"version": "3.1",
-	"description": "A Simple New Tab (browser's home page) inspired by Google's 'Material You' design.",
+	"description": "A Simple New Tab (browser's home page) inspired by Google's 'Chandan Edge Extension' design.",
 	"permissions": ["search"],
 	"optional_permissions": ["bookmarks"],
 	"host_permissions": [
